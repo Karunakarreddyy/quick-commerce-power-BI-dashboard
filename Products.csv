@@ -1,0 +1,91 @@
+ProductID,ProductName,Category,Subcategory,Price
+1001,Fruits & Vegetables Product 1,Grocery,Fruits & Vegetables,1941.67
+1002,Fruits & Vegetables Product 2,Grocery,Fruits & Vegetables,1114.03
+1003,Fruits & Vegetables Product 3,Grocery,Fruits & Vegetables,2150.74
+1004,Fruits & Vegetables Product 4,Grocery,Fruits & Vegetables,1752.5
+1005,Fruits & Vegetables Product 5,Grocery,Fruits & Vegetables,262.62
+1006,Dairy Product 1,Grocery,Dairy,2439.79
+1007,Dairy Product 2,Grocery,Dairy,1910.02
+1008,Dairy Product 3,Grocery,Dairy,1971.58
+1009,Dairy Product 4,Grocery,Dairy,346.44
+1010,Dairy Product 5,Grocery,Dairy,1142.45
+1011,Staples Product 1,Grocery,Staples,945.87
+1012,Staples Product 2,Grocery,Staples,2319.11
+1013,Staples Product 3,Grocery,Staples,1620.35
+1014,Staples Product 4,Grocery,Staples,2062.22
+1015,Staples Product 5,Grocery,Staples,1125.23
+1016,Snacks Product 1,Grocery,Snacks,591.28
+1017,Snacks Product 2,Grocery,Snacks,1399.82
+1018,Snacks Product 3,Grocery,,187.63
+1019,Snacks Product 4,Grocery,Snacks,2074.25
+1020,Snacks Product 5,Grocery,Snacks,1590.21
+1021,Soft Drinks Product 1,Beverages,Soft Drinks,1902.48
+1022,Soft Drinks Product 2,Beverages,Soft Drinks,905.68
+1023,Soft Drinks Product 3,Beverages,Soft Drinks,2427.62
+1024,Soft Drinks Product 4,Beverages,Soft Drinks,2236.01
+1025,Soft Drinks Product 5,Beverages,Soft Drinks,1952.61
+1026,Juices Product 1,Beverages,Juices,510.76
+1027,Juices Product 2,Beverages,Juices,1182.8
+1028,Juices Product 3,Beverages,Juices,138.2
+1029,Juices Product 4,Beverages,Juices,411.1
+1030,Juices Product 5,Beverages,Juices,1717.13
+1031,Tea & Coffee Product 1,Beverages,Tea & Coffee,1869.56
+1032,Tea & Coffee Product 2,Beverages,Tea & Coffee,2419.75
+1033,Tea & Coffee Product 3,Beverages,Tea & Coffee,834.79
+1034,Tea & Coffee Product 4,Beverages,Tea & Coffee,945.04
+1035,Tea & Coffee Product 5,Beverages,Tea & Coffee,1189.8
+1036,Skin Care Product 1,Personal Care,Skin Care,497.99
+1037,Skin Care Product 2,Personal Care,Skin Care,350.91
+1038,Skin Care Product 3,Personal Care,Skin Care,1204.99
+1039,Skin Care Product 4,Personal Care,Skin Care,590.47
+1040,Skin Care Product 5,Personal Care,Skin Care,1684.44
+1041,Hair Care Product 1,Personal Care,Hair Care,1109.77
+1042,Hair Care Product 2,Personal Care,Hair Care,2086.72
+1043,Hair Care Product 3,Personal Care,Hair Care,1759.65
+1044,Hair Care Product 4,Personal Care,Hair Care,801.55
+1045,Hair Care Product 5,Personal Care,Hair Care,2085.68
+1046,Oral Care Product 1,Personal Care,Oral Care,2017.77
+1047,Oral Care Product 2,Personal Care,Oral Care,987.07
+1048,Oral Care Product 3,Personal Care,Oral Care,742.17
+1049,Oral Care Product 4,Personal Care,Oral Care,1715.76
+1050,Oral Care Product 5,Personal Care,Oral Care,375.19
+1051,Cleaning Product 1,Household,Cleaning,523.77
+1052,Cleaning Product 2,Household,Cleaning,48.18
+1053,Cleaning Product 3,Household,Cleaning,1973.7
+1054,Cleaning Product 4,Household,Cleaning,1672.18
+1055,Cleaning Product 5,Household,Cleaning,1771.76
+1056,Kitchen Product 1,Household,Kitchen,1958.4
+1057,Kitchen Product 2,Household,Kitchen,1163.52
+1058,Kitchen Product 3,Household,Kitchen,1434.79
+1059,Kitchen Product 4,Household,Kitchen,375.3
+1060,Kitchen Product 5,Household,Kitchen,312.89
+1061,Home Care Product 1,Household,Home Care,1680.96
+1062,Home Care Product 2,Household,Home Care,1193.61
+1063,Home Care Product 3,Household,Home Care,1426.13
+1064,Home Care Product 4,Household,Home Care,1919.55
+1065,Home Care Product 5,Household,Home Care,1597.75
+1066,Mobile Accessories Product 1,Electronics,Mobile Accessories,1397.34
+1067,Mobile Accessories Product 2,Electronics,Mobile Accessories,1411.24
+1068,Mobile Accessories Product 3,Electronics,Mobile Accessories,780.76
+1069,Mobile Accessories Product 4,Electronics,Mobile Accessories,106.12
+1070,Mobile Accessories Product 5,Electronics,Mobile Accessories,1108.69
+1071,Small Electronics Product 1,Electronics,Small Electronics,560.02
+1072,Small Electronics Product 2,Electronics,Small Electronics,1039.07
+1073,Small Electronics Product 3,Electronics,Small Electronics,2137.91
+1074,Small Electronics Product 4,Electronics,Small Electronics,607.83
+1075,Small Electronics Product 5,Electronics,Small Electronics,174.01
+1076,Bread Product 1,Bakery,Bread,725.02
+1077,Bread Product 2,Bakery,Bread,755.18
+1078,Bread Product 3,Bakery,Bread,1664.93
+1079,Bread Product 4,Bakery,Bread,1405.87
+1080,Bread Product 5,Bakery,Bread,1966.23
+1081,Cakes Product 1,Bakery,Cakes,1670.85
+1082,Cakes Product 2,Bakery,Cakes,1033.78
+1083,Cakes Product 3,Bakery,Cakes,2040.63
+1084,Cakes Product 4,Bakery,Cakes,442.42
+1085,Cakes Product 5,Bakery,Cakes,86.1
+1086,Cookies Product 1,Bakery,Cookies,252.42
+1087,Cookies Product 2,Bakery,Cookies,1814.23
+1088,Cookies Product 3,Bakery,Cookies,1170.84
+1089,Cookies Product 4,Bakery,Cookies,428.34
+1090,Cookies Product 5,Bakery,Cookies,1267.58
