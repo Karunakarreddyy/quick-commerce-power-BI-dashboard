@@ -163,7 +163,26 @@ Summarizes:
 
 ## 📸 Dashboard Preview
 
-Screenshots of all five dashboard pages are included in the `Screenshots` folder.
+### 1. Executive Overview
+
+![Executive Overview](QUICK-COMMERCE%20ANALYTICS.png)
+
+### 2. Customer & Product Analysis
+
+![Customer & Product Analysis](CUSTOMER%20PRODUCT%20ANALYSIS.png)
+
+### 3. Operations & Delivery Analysis
+
+![Operations & Delivery Analysis](OPERATIONS%20%26%20DELIVERY%20ANALYSIS.png)
+
+### 4. Customer Experience & Payments
+
+![Customer Experience & Payments](CUSTOMER%20EXPERIENCE%20%26%20PAYMENTS.png)
+
+### 5. Key Insights
+
+![Key Insights](KEY%20INSIGHTS.png)
+
 
 ## 🚀 Skills Demonstrated
 
